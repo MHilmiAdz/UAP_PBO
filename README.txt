@@ -1,7 +1,7 @@
 ====================================================
 REPOSITORY INI UNTUK PENGUMPULAN UAP PBO KINERJA 40%
 ====================================================
-WARNING!!!
+NOTE :
 
 Repository ini terdiri dari beberapa branch yang 
 mana setiap branch-nya mewakili 1 tugas pertemuan 
